@@ -38,7 +38,6 @@ Detailplanning:
  * Opdracht:
    * Als je op de on-board knop drukt, worden de on-board LEDs rood. Anders zijn ze blauw
    * Als je op de on-board knop drukt, hoor je een toon
-   * Als je op de on-board knop drukt, hoor je een toon
    * :godmode: laat een mBot een berichtje versturen. Laat een andere mBot dit berichtje lezen en hierop reageren
  * 19:40: Vragen en verzoeken?
  * 19:45-20:00: pauze
