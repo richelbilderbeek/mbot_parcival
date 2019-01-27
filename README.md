@@ -1,5 +1,47 @@
 # mbot_parcival
 
+## Planning les 2:
+
+Tijd|Activiteit
+---|---
+18:00-18:45|Blok 1: variabelen, Panda, stoplicht
+18:45-19:00|Pauze
+19:00-19:45|Blok 2: functieblokken, lijn-volg robot
+19:45-20:00|Pauze
+20:00-20:45|Blok 3: communicatie
+20:45-21:00|Pauze, uitloop
+
+
+Detailplanning:
+
+ * 18:00: Doel van de avond
+   * Lesdoel: lln zeggen 'We hebben nu het meeste van mBot wel gesnapt'
+   * Niet-lesdoelen: mechanica, lesideeen, tot 21:00 door
+   * Docentdoel: lesdoel in een les bereiken
+ * 18:15:
+   * Demo panda: laat panda 'hoi' zeggen
+   * Opdracht: laat de panda 'hoi' zeggen als je op spatie drukt
+   * Onmogelijke opdracht: laat de panda of 'hoi' of 'doei' zeggen als je op spatie drukt
+   * Oplossing: variabele
+   * Woordweb: wat is een variabele?
+   * Demo variabele
+   * Verder met opdracht: laat de panda of 'hoi' of 'doei' zeggen als je op spatie drukt
+ * 18:45 pauze
+ * 19:00
+   * Demo lijnvolgrobot: aftellen, volgen, stoppen
+   * Probleem: groot programma
+   * Plenair: hoe om te gaan met grote programma's
+   * Demo en waarom functieblokken
+
+
+
+
+
+
+
+
+
+
 ## Planning les 1:
 
 Tijd|Activiteit
@@ -60,3 +102,15 @@ Detailplanning:
 Title|YouTube|Download
 ---|---|---
 Minimal program|[here](https://youtu.be/RgEcuhoyzMc)|[here](http://richelbilderbeek.nl/mbot_minimal_program.flv)
+
+## Notities
+
+Install mBlock op Linux 
+
+```
+sudo dpkg -i mBlock_4.0.4_amd64.deb
+```
+
+```
+/usr/share/applications/mblock.desktop
+```
