@@ -4,43 +4,41 @@
 
 Tijd|Activiteit
 ---|---
-18:00-18:45|Blok 1: variabelen, Panda, stoplicht
+18:00-18:45|Blok 1: variabelen, stoplicht
 18:45-19:00|Pauze
 19:00-19:45|Blok 2: functieblokken, lijn-volg robot
 19:45-20:00|Pauze
 20:00-20:45|Blok 3: communicatie
 20:45-21:00|Pauze, uitloop
 
-
 Detailplanning:
 
  * 18:00: Doel van de avond
-   * Lesdoel: lln zeggen 'We hebben nu het meeste van mBot wel gesnapt'
+   * Lesdoelen: 
+     * Het eind laten zien van wat er met de blokken mogelijk is
+     * Kunnen inschatten wanneer de ll moet leren wat een variabele is
+     * Kunnen helpen als een ll het overzicht van een programma kwijt is
+     * lln zeggen 'We hebben nu het meeste van mBot wel gesnapt'
    * Niet-lesdoelen: mechanica, lesideeen, tot 21:00 door
    * Docentdoel: lesdoel in een les bereiken
  * 18:15:
-   * Demo panda: laat panda 'hoi' zeggen
-   * Opdracht: laat de panda 'hoi' zeggen als je op spatie drukt
-   * Onmogelijke opdracht: laat de panda of 'hoi' of 'doei' zeggen als je op spatie drukt
+   * Opdracht: laat standaard LEDs blauw branden. Maak de LEDs rood als je op de knop drukt
+   * Onmogelijke opdracht: laat de LEDs van kleur veranderen als je op de knop drukt
    * Oplossing: variabele
    * Woordweb: wat is een variabele?
    * Demo variabele
-   * Verder met opdracht: laat de panda of 'hoi' of 'doei' zeggen als je op spatie drukt
+   * Verder met opdracht: laat de LEDs van kleur veranderen als je op de knop drukt
  * 18:45 pauze
  * 19:00
    * Demo lijnvolgrobot: aftellen, volgen, stoppen
    * Probleem: groot programma
    * Plenair: hoe om te gaan met grote programma's
    * Demo en waarom functieblokken
-
-
-
-
- * Wiskunde
-
-
-
-
+ * 19:45 pauze
+ * 20:00
+   * Demo panda en wiskunde: fibonacci
+   * Demo communicatie: doorgeven
+   * Demo communicatie: papier schaar steen
 
 ## Planning les 1:
 
