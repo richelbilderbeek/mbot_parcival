@@ -1,6 +1,11 @@
 # Factuur
 
-
+Wat      |Prijs (euro)
+---------|----
+Les 1    | 140.48
+Les 2    | 140.48
+Les 3    | 140.48
+Materiaal| 281.71
 
 ## Materiaal
 
@@ -13,7 +18,7 @@ Faders en displays| 78.05
 Sensor pakket     | 35.49	
 mBot              | 99.00
 
-Totaal
+Totaal: 281.71
 
 ## Prijs per les: 140.48
 
