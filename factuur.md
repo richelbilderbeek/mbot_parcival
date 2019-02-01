@@ -4,14 +4,14 @@
 
 ## Materiaal
 
-Wat               |Prijs
+Wat               |Prijs (euro)
 ------------------|----
-Batterijen        | 22,45
-Batterijen        | 18,76
-Knoopcellen       | 27,96
-Faders en displays| 78,05	
-Sensor pakket     | 35,49	
-mBot              | 99,00
+Batterijen        | 22.45
+Batterijen        | 18.76
+Knoopcellen       | 27.96
+Faders en displays| 78.05	
+Sensor pakket     | 35.49	
+mBot              | 99.00
 
 Totaal
 
