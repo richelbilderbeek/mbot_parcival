@@ -7,7 +7,9 @@ Les 2    | 140.48
 Les 3    | 140.48
 Materiaal| 281.71
 
-## Materiaal
+Totaal: 703.15
+
+## Kosten materiaal
 
 Wat               |Prijs (euro)
 ------------------|----
@@ -20,7 +22,7 @@ mBot              | 99.00
 
 Totaal: 281.71
 
-## Prijs per les: 140.48
+## Kosten les
 
 Van [CAO-VO-2018-2019_salarisschalen](https://ambtenarensalaris.nl/wp-content/uploads/2018/08/CAO-VO-2018-2019_salarisschalen.pdf)
 
