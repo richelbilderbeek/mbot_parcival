@@ -1,46 +1,21 @@
 # mbot_parcival
 
+## Planning les 3:
+
+
+
+ * ['Werkt dit?' quiz](werkt_dit_quiz.md)
+ * ['Werkt dit?' antwoorden](werkt_dit_antwoorden.md)
 
 ### Simpele communicatie
 
 ![](communicatie.png)
 
-### LED
-
-Wat                      |Werkt
--------------------------|-----
-![](led_always_works.png)|Altijd 
-![](led_after_ok.png)    |Ja
-![](led_after_error.png) |Nee
-![](led_rgb_ok.png)      |Ja
-![](led_rgb_error.png)   |Nee
+### Fouten in detail
 
 ![](led_error_annotated.png)
 
-### LCD
-
-Wat                          |Werkt
------------------------------|-----
-![](lcd_error_annotated.png) |Nee
-
-### Zenden
-
-Wat                      |Werkt
--------------------------|-----
-![](send_0_is_ok.png)    |Ja 
-![](send_getal_is_ok.png)|Ja 
-![](send_a_is_ok.png)    |Ja 
-![](send_hallo_is_ok.png)|Ja 
-
-### Ontvangen
-
-Wat                            |Werkt
--------------------------------|-----
-![](receive_0_is_error.png)    |Nee
-![](receive_getal_is_error.png)|Nee
-![](receive_a_is_ok.png)       |Ja
-![](receive_hallo_is_ok.png)   |Ja
-
+![](lcd_error_annotated.png
 
 ## Planning les 2:
 
