@@ -10,6 +10,16 @@
  * [Communicatie](communicatie.md)
  * [Fouten in detail](fouten_in_detail.md)
 
+Lessen:
+
+ * Bij het maken van een programma, werk van groot naar klein, met functieblokken
+ * Je hoofdblok zou vooral Nederlands moeten zijn
+ * Een blok groter dan het scherm? In stukken hakken!
+ * De naam van een blok moet duidelijk maken wat er in het blok
+   gaat gebeuren. Onduidelijk wat een blok doet? Naam van blok hernoemen
+ * Bij duidelijke bloknamen is het duidelijk wat er wel en niet in moet gebeuren
+ * Maak je programma stapsgewijs groter
+
 ## Planning les 2:
 
 Tijd|Activiteit
