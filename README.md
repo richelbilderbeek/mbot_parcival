@@ -1,5 +1,10 @@
 # mbot_parcival
 
+
+### Simpele communicatie
+
+![](communicatie.png)
+
 ### Bugs
 
 Wat                      |Werkt
