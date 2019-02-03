@@ -5,11 +5,23 @@
 
 ![](communicatie.png)
 
-### Bugs
+### LED
 
 Wat                      |Werkt
 -------------------------|-----
-![](error_1.png)         |Nee 
+![](led_always_works.png)|Altijd 
+![](led_after_ok.png)    |Ja
+![](led_after_error.png) |Nee
+![](led_rgb_ok.png)      |Ja
+![](led_rgb_error.png)   |Nee
+
+![](led_error_annotated.png)
+
+### LCD
+
+Wat                          |Werkt
+-----------------------------|-----
+![](lcd_error_annotated.png) |Nee
 
 ### Zenden
 
