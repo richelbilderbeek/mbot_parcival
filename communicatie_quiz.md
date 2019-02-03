@@ -28,7 +28,7 @@ Een leerling komt trots zijn programma laten zien:
 
 ![](communicatie_receiver_green.png)
 
-Je geeft haar een compliment over haar duidelijk
+Je geeft hem een compliment over zijn duidelijk
 gestructureerde programma.
 
 'Maar werkt het ook?', vraag je aan hem.
