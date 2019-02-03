@@ -1,11 +1,28 @@
 # mbot_parcival
 
-Wat                      |Werkt|Wat                         |Werkt
--------------------------|---|-------------------------------|---
-![](send_0_is_ok.png)    |Ja |![](receive_0_is_error.png)    |Nee
-![](send_getal_is_ok.png)|Ja |![](receive_getal_is_error.png)|Nee
-![](send_a_is_ok.png)    |Ja |![](receive_a_is_ok.png)       |Ja
-![](send_hallo_is_ok.png)|Ja |![](receive_hallo_is_ok.png)   |Ja
+### Bugs
+
+Wat                      |Werkt
+-------------------------|-----
+![](error_1.png)         |Nee 
+
+### Zenden
+
+Wat                      |Werkt
+-------------------------|-----
+![](send_0_is_ok.png)    |Ja 
+![](send_getal_is_ok.png)|Ja 
+![](send_a_is_ok.png)    |Ja 
+![](send_hallo_is_ok.png)|Ja 
+
+### Ontvangen
+
+Wat                            |Werkt
+-------------------------------|-----
+![](receive_0_is_error.png)    |Nee
+![](receive_getal_is_error.png)|Nee
+![](receive_a_is_ok.png)       |Ja
+![](receive_hallo_is_ok.png)   |Ja
 
 
 ## Planning les 2:
