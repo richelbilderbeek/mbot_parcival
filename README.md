@@ -2,10 +2,10 @@
 
 ## Planning les 3:
 
-
-
  * ['Werkt dit?' quiz](werkt_dit_quiz.md)
  * ['Werkt dit?' antwoorden](werkt_dit_antwoorden.md)
+ * ['Communicatie' quiz](communicatie_quiz.md)
+ * ['Communicatie' antwoorden](communicatie_antwoorden.md)
 
 ### Simpele communicatie
 
