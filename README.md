@@ -6,16 +6,9 @@
  * ['Werkt dit?' antwoorden](werkt_dit_antwoorden.md)
  * ['Communicatie' quiz](communicatie_quiz.md)
  * ['Communicatie' antwoorden](communicatie_antwoorden.md)
-
-### Simpele communicatie
-
-![](communicatie.png)
-
-### Fouten in detail
-
-![](led_error_annotated.png)
-
-![](lcd_error_annotated.png)
+ * [Muziek](muziek.md)
+ * [Communicatie](communicatie.md)
+ * [Fouten in detail](fouten_in_detail.md)
 
 ## Planning les 2:
 
