@@ -15,7 +15,7 @@
 
 ![](led_error_annotated.png)
 
-![](lcd_error_annotated.png
+![](lcd_error_annotated.png)
 
 ## Planning les 2:
 
