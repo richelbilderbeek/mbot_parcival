@@ -10,7 +10,7 @@
  * [Communicatie](communicatie.md)
  * [Fouten in detail](fouten_in_detail.md)
 
-Lessen:
+## Lessen
 
  * Bij het maken van een programma, werk van groot naar klein, met functieblokken
  * Je hoofdblok zou vooral Nederlands moeten zijn
@@ -19,6 +19,11 @@ Lessen:
    gaat gebeuren. Onduidelijk wat een blok doet? Naam van blok hernoemen
  * Bij duidelijke bloknamen is het duidelijk wat er wel en niet in moet gebeuren
  * Maak je programma stapsgewijs groter
+
+## Links
+
+ * [mBot tutorials (Engels)](http://education.makeblock.com/resource/explore-mbot-tutorials-collection/)
+
 
 ## Planning les 2:
 
