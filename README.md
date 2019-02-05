@@ -9,27 +9,11 @@
  * [Muziek](muziek.md)
  * [Communicatie](communicatie.md)
  * [Fouten in detail](fouten_in_detail.md)
-
-## Lessen
-
-[Opstarten](opstarten.md):
-
- * Kies een mBot als device (niet Codey) voor de juiste blokken
- * Connect de mBot en zet deze in upload modus voor de juiste blokken
- * Zet de mBot aan bij het uploaden
-
- * Bij het maken van een programma, werk van groot naar klein, met functieblokken
- * Je hoofdblok zou vooral Nederlands moeten zijn
- * Een blok groter dan het scherm? In stukken hakken!
- * De naam van een blok moet duidelijk maken wat er in het blok
-   gaat gebeuren. Onduidelijk wat een blok doet? Naam van blok hernoemen
- * Bij duidelijke bloknamen is het duidelijk wat er wel en niet in moet gebeuren
- * Maak je programma stapsgewijs groter
+ * [Lessen](lessen.md)
 
 ## Links
 
  * [mBot tutorials (Engels)](http://education.makeblock.com/resource/explore-mbot-tutorials-collection/)
-
 
 ## Planning les 2:
 
