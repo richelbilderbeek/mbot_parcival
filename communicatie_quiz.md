@@ -4,9 +4,9 @@
 
 Een leerlinge komt trots haar programma laten zien:
 
-![](communicatie_sender_and_receiver_green.png)
+![Code 1](communicatie_sender_and_receiver_green.png)
 
-Je geeft haar een compliment over haar duidelijk
+Je geeft haar een compliment   over haar duidelijk
 gestructureerde programma.
 
 'Maar werkt het ook?', vraag je aan haar.
@@ -22,11 +22,13 @@ Dan zien jullie dat:
 
 Waar zit de fout?
 
+\pagebreak
+
 ## Code 2
 
 Een leerling komt trots zijn programma laten zien:
 
-![](communicatie_receiver_green.png)
+![Code 2](communicatie_receiver_green.png)
 
 Je geeft hem een compliment over zijn duidelijk
 gestructureerde programma.
@@ -47,3 +49,5 @@ Dan zien jullie dat:
  * Etcetera
 
 Waar zit de fout?
+
+

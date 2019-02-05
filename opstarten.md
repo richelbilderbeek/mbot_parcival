@@ -4,13 +4,19 @@
 
 ![Geen mBot blok](geen_mbot_blok.png)
 
+\pagebreak
+
 ## Connect de mBot voor de juiste blokken
 
 ![Grijs mBot blok](mbot_blok_grijs_1.png)
 
+\pagebreak
+
 ## Zet de mBot in de upload modus voor de juiste blokken
 
 ![Grijs mBot blok](mbot_blok_grijs_1.png)
+
+\pagebreak
 
 ## Zet de mBot aan bij het uploaden
 
