@@ -1,0 +1,17 @@
+#!/bin/bash
+
+# Concatenate all Markdown files first, convert those to one PDF
+cat lessen.md    > boek.md; echo " " >> boek.md; echo "\pagebreak" >> boek.md; echo " " >> boek.md
+cat opstarten.md >> boek.md; echo " " >> boek.md; echo "\pagebreak" >> boek.md; echo " " >> boek.md
+cat werkt_dit.md >> boek.md; echo " " >> boek.md; echo "\pagebreak" >> boek.md; echo " " >> boek.md
+cat werkt_dit_quiz.md >> boek.md; echo " " >> boek.md; echo "\pagebreak" >> boek.md; echo " " >> boek.md
+cat muziek.md >> boek.md; echo " " >> boek.md; echo "\pagebreak" >> boek.md; echo " " >> boek.md
+cat communicatie.md >> boek.md; echo " " >> boek.md; echo "\pagebreak" >> boek.md; echo " " >> boek.md
+cat communicatie_quiz.md >> boek.md; echo " " >> boek.md; echo "\pagebreak" >> boek.md; echo " " >> boek.md
+cat fouten_in_detail.md >> boek.md; echo " " >> boek.md; echo "\pagebreak" >> boek.md; echo " " >> boek.md
+
+pandoc boek.md -o boek.pdf --toc --toc-depth=1 --highlight-style=tango -V geometry:margin=0.5in
+
+# Make booklet
+bookletimposer -a boek.pdf -o boekje.pdf
+
