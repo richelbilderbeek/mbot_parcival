@@ -1,5 +1,3 @@
 # Communicatie
 
-Een goed minimaal programma:
-
-![](communicatie.png)
+![Een goed minimaal programma](communicatie.png)

@@ -1,10 +1,10 @@
 #!/bin/bash
 
 # Concatenate all Markdown files first, convert those to one PDF
-cat lessen.md    > boek.md; echo " " >> boek.md; echo "\pagebreak" >> boek.md; echo " " >> boek.md
+cat voorwoord.md    > boek.md; echo " " >> boek.md; echo "\pagebreak" >> boek.md; echo " " >> boek.md
+cat lessen.md    >> boek.md; echo " " >> boek.md; echo "\pagebreak" >> boek.md; echo " " >> boek.md
 cat opstarten.md >> boek.md; echo " " >> boek.md; echo "\pagebreak" >> boek.md; echo " " >> boek.md
 cat werkt_dit_quiz.md >> boek.md; echo " " >> boek.md; echo "\pagebreak" >> boek.md; echo " " >> boek.md
-cat werkt_dit_antwoorden.md >> boek.md; echo " " >> boek.md; echo "\pagebreak" >> boek.md; echo " " >> boek.md
 cat muziek.md >> boek.md; echo " " >> boek.md; echo "\pagebreak" >> boek.md; echo " " >> boek.md
 cat communicatie.md >> boek.md; echo " " >> boek.md; echo "\pagebreak" >> boek.md; echo " " >> boek.md
 cat communicatie_quiz.md >> boek.md; echo " " >> boek.md; echo "\pagebreak" >> boek.md; echo " " >> boek.md

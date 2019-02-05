@@ -1,7 +1,7 @@
 # Muziek
 
-![](muziek_annotated.png)
+![Installeer de Muziek add on](muziek_annotated.png)
 
-![](muziek_code.png)
+![Slagwerk en synthesizer](muziek_code.png)
 
-![](muziek_code_2.png)
+![Twee drums en synthesizer](muziek_code_2.png)
